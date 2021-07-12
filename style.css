@@ -70,10 +70,19 @@
 }
 
 .advanced_search_button {
-    background-color: blue;
+    background-color: cornflowerblue;
     color: white;
     padding: 10px;
     font-size: 20px;
     text-align: center;
     border-radius:24px;
+}
+
+#lucky {
+    height: 40px;
+    background-color: #fff;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    width: 155px;
+    cursor: pointer;
 }

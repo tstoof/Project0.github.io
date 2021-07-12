@@ -52,3 +52,28 @@
 .search_button:hover {
     background-color: #ffe;
 }
+
+
+.container_advanced_search {
+    margin: 20px;
+}
+
+.line {
+    margin:20px;
+    text-align:left;
+}
+
+.advanced_search_bar {
+    position: absolute;
+    left: 300px;
+    width: 600px;
+}
+
+.advanced_search_button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    border-radius:24px;
+}
